@@ -1,8 +1,8 @@
 # Leyla Mehtiyeva
 
-**AI Engineer | LLM Systems, Agents, Retrieval & Ranking**
+**ML/AI Engineer | RecSyS, LLM Systems, Agents, Retrieval & Ranking**
 
-I'm an AI Engineer with a background in machine learning, recommendation systems, and LLM-based applications.
+I'm an ML/AI Engineer with a background in machine learning, recommendation systems, and LLM-based applications.
 
 My work focuses on building practical AI systems, with particular attention to architecture, evaluation, reliability, and understanding where and why systems fail.
 
